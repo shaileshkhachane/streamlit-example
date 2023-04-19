@@ -2,4 +2,4 @@ altair
 pandas
 streamlit
 openai
-langchain
+langchain==0.0.144
